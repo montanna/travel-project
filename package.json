@@ -1,5 +1,5 @@
 {
-  "name": "Europe Trip Photo Project",
+  "name": "MLT-2018-Travel-Project",
   "version": "1.0.0",
   "dependencies": {
     "express": "*"
