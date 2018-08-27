@@ -1,4 +1,7 @@
 {
   "name": "Europe Trip Photo Project",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "*"
+  }
 }
