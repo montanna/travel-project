@@ -1,6 +1,9 @@
 {
   "name": "MLT-2018-Travel-Project",
   "version": "1.0.0",
+  "description": "A web-based scrapbook + journal of my semester abroad.",
+  "author": "montanna",
+  "main": "index.js",
   "dependencies": {
     "express": "*"
   }
